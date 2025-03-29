@@ -65,13 +65,13 @@ We started with exploratory data analysis (EDA) to uncover patterns and correlat
 We used Python for data processing, model building, and evaluation. 
 Several machine learning models were trained and compared, including:
 
-Logistic Regression
+1. Logistic Regression
 
-Random Forest Classifier
+2. Random Forest Classifier
 
-Support Vector Machine (SVM)
+3. Support Vector Machine (SVM)
 
-XGBoost
+4. XGBoost
 
 
 
@@ -89,7 +89,7 @@ We evaluated the models using multiple metrics to ensure the best results:
 Backend & Frontend: We developed an interactive web interface using streamlit to allow users to easily input their data and receive predictions in real-time.
 
 
-
+<br>
 
 ## 📌 Results and Key Findings
 
@@ -99,3 +99,8 @@ Top Model: SVM achieved a 93% accuracy and an F1-score of 0.87.
 Feature Importance: Insights into the most influential factors affecting mental health.
 
 ROC-AUC Score: 0.91, reflecting strong model performance.
+
+
+<br>
+
+### Check it out!
