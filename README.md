@@ -1,7 +1,6 @@
-                                            # Mental-Health-Risk-Web-Application
+# Mental-Health-Risk-Web-Application
 
                                             
-
 
 
 
