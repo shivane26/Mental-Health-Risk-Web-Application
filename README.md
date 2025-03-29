@@ -34,7 +34,7 @@ This dataset contains 1,439 responses from a 2014 survey that measures attitudes
 Age, gender, work environment, family history, previous diagnosis, willingness to seek help, etc. 
 
 #### Target: 
-treatmemt requirement
+treatment requirement
 
 
 
