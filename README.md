@@ -9,31 +9,44 @@ Our _Mental Health Risk Prediction Web Application_ aims to bridge this gap by u
 
 
 
+
 🎯 Why This Matters
 
 With rising mental health concerns worldwide, leveraging technology to provide timely predictions and personalized recommendations can make a real difference. By analyzing user inputs, our application predicts potential mental health risks and offers tailored support suggestions.
 
 
-📊 Dataset Overview
+
+📊 Dataset Overview:
+
 
 📂 Source of the Data.
+
 https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey
 
+
 What's in the Dataset?
+
 This dataset contains 1,439 responses from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
 
+
 Key Features:
+
 Age, gender, work environment, family history, previous diagnosis, willingness to seek help, etc. 
 Target: 
 treatmemt requirement
 
 
+
 🔧 Data Preparation:
 
 Handling missing data using imputation.
+
 Encoding categorical variables to numeric formats.
+
 Standardizing numerical features to ensure consistent scaling.
+
 Feature engineering to improve model performance.
+
 
 
 🧠 Our Solution
