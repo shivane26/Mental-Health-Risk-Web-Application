@@ -22,7 +22,7 @@ With rising mental health concerns worldwide, leveraging technology to provide t
 ## 📊 Dataset Overview:
 
 
-### - Source of the Data:
+### - Source of the Data?
 [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
 
 
@@ -39,7 +39,7 @@ treatmemt requirement
 
 
 
-### - Data Preparation:
+### - Data Preparation?
 
 Handling missing data using imputation.
 
