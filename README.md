@@ -22,11 +22,11 @@ With rising mental health concerns worldwide, leveraging technology to provide t
 ## 📊 Dataset Overview:
 
 
-### Source of the Data:
+### - Source of the Data:
 [Mental Health in Tech Survey](https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey)
 
 
-### What's in the Dataset?
+### - What's in the Dataset?
 This dataset contains 1,439 responses from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
 
 
@@ -39,7 +39,7 @@ treatmemt requirement
 
 
 
-### Data Preparation:
+### - Data Preparation:
 
 Handling missing data using imputation.
 
