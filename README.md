@@ -1,4 +1,4 @@
-# Mental-Health-Risk-Web-Application
+# 🧠 Mental-Health-Risk-Web-Application 🧠
 
                                             
 
@@ -52,7 +52,7 @@ Feature engineering to improve model performance.
 
 
 
-## 🧠 Our Solution
+## ✅ Our Solution
 
 
 ### Step 1: Understanding the Data
@@ -91,7 +91,7 @@ Backend & Frontend: We developed an interactive web interface using streamlit to
 
 
 
-## 📊 Results and Key Findings
+## 📌 Results and Key Findings
 
 
 Top Model: SVM achieved a 93% accuracy and an F1-score of 0.87.
