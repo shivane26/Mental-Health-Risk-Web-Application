@@ -28,7 +28,8 @@ Target:
 treatmemt requirement
 
 
-🔧 Data Preparation
+🔧 Data Preparation:
+
 Handling missing data using imputation.
 Encoding categorical variables to numeric formats.
 Standardizing numerical features to ensure consistent scaling.
