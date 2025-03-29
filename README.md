@@ -33,6 +33,7 @@ This dataset contains 1,439 responses from a 2014 survey that measures attitudes
 Key Features:
 
 Age, gender, work environment, family history, previous diagnosis, willingness to seek help, etc. 
+
 Target: 
 treatmemt requirement
 
@@ -50,32 +51,51 @@ Feature engineering to improve model performance.
 
 
 
+
 🧠 Our Solution
 
+
 Step 1: Understanding the Data
+
 We started with exploratory data analysis (EDA) to uncover patterns and correlations in the dataset. This step helped us identify the most critical features for predicting mental health risks.
 
+
 Step 2: Model Development
+
 We used Python for data processing, model building, and evaluation. 
 Several machine learning models were trained and compared, including:
+
 Logistic Regression
+
 Random Forest Classifier
+
 Support Vector Machine (SVM)
+
 XGBoost
-To ensure consistency and reliability, we used k-fold cross-validation to evaluate model performance.
+
+
 
 Step 3: Model Evaluation
+
 We evaluated the models using multiple metrics to ensure the best results:
+
 - Accuracy, Precision, Recall, and F1-Score
+
 - ROC-AUC Curve to assess prediction performance
+  
 
 Step 4: Building the Web Application
+
 Backend & Frontend: We developed an interactive web interface using streamlit to allow users to easily input their data and receive predictions in real-time.
+
 
 
 
 📊 Results and Key Findings
 
+
 Top Model: SVM achieved a 93% accuracy and an F1-score of 0.87.
+
 Feature Importance: Insights into the most influential factors affecting mental health.
+
 ROC-AUC Score: 0.91, reflecting strong model performance.
