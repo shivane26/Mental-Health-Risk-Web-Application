@@ -10,6 +10,7 @@ Our _Mental Health Risk Prediction Web Application_ aims to bridge this gap by u
 
 
 
+
 🎯 Why This Matters
 
 With rising mental health concerns worldwide, leveraging technology to provide timely predictions and personalized recommendations can make a real difference. By analyzing user inputs, our application predicts potential mental health risks and offers tailored support suggestions.
