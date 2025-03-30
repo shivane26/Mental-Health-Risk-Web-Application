@@ -104,7 +104,7 @@ Observed high recall, reflecting strong model performance.
 
 <br>
 
-## Observations
+## 📈 Output
 
 Clear insights and actionable recommendations with regard to mental health condition. 
 
