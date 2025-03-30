@@ -77,7 +77,10 @@ Several machine learning models were trained and compared, including:
 
 We evaluated the models using multiple metrics to ensure the best results:
 
-- Accuracy, Precision, Recall, and F1-Score
+- Accuracy,
+- Precision,
+- Recall and
+- F1-Score
 
   Recall helped us determine the best model, i.e. Random Forest Classifier.
   
