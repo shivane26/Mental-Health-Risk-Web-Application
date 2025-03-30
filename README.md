@@ -104,4 +104,11 @@ Observed high recall, reflecting strong model performance.
 
 <br>
 
+## Observations
+
+Clear insights and actionable recommendations with regard to mental health condition. 
+
+
+<br>
+
 ### 🚀 Give It a Try!
