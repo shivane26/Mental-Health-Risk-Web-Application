@@ -27,7 +27,7 @@ With rising mental health concerns worldwide, leveraging technology to provide t
 
 
 ### - What's in the Dataset?
-This dataset contains 1,439 responses from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
+This dataset contains 1,239 responses from a 2014 survey that measures attitudes towards mental health and frequency of mental health disorders in the tech workplace. 
 
 
 #### Key Features:
@@ -68,10 +68,8 @@ Several machine learning models were trained and compared, including:
 1. Logistic Regression
 
 2. Random Forest Classifier
-
-3. Support Vector Machine (SVM)
-
-4. XGBoost
+   
+3. XGBoost
 
 
 
@@ -81,7 +79,7 @@ We evaluated the models using multiple metrics to ensure the best results:
 
 - Accuracy, Precision, Recall, and F1-Score
 
-- ROC-AUC Curve to assess prediction performance
+  Recall helped us determine the best model, i.e. Random Forest Classifier.
   
 
 ### Step 4: Building the Web Application
@@ -94,11 +92,11 @@ Backend & Frontend: We developed an interactive web interface using streamlit to
 ## 📌 Results and Key Findings
 
 
-Top Model: SVM achieved a 93% accuracy and an F1-score of 0.87.
+Top Model: Random Forest Classifier achieved a recall of 0.911 and an F1-score of 0.90.
 
 Feature Importance: Insights into the most influential factors affecting mental health.
 
-ROC-AUC Score: 0.91, reflecting strong model performance.
+Observed high recall, reflecting strong model performance.
 
 
 <br>
