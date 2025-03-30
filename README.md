@@ -82,7 +82,7 @@ We evaluated the models using multiple metrics to ensure the best results:
 - Recall and
 - F1-Score
 
-  Recall helped us determine the best model, i.e. Random Forest Classifier.
+Recall helped us determine the best model, i.e. Random Forest Classifier.
   
 
 ### Step 4: Building the Web Application
